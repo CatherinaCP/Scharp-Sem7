@@ -1,0 +1,15 @@
+C:\Users\Win 11\TEST\Рекуссия\bin\Debug\net8.0\Рекуссия.exe
+C:\Users\Win 11\TEST\Рекуссия\bin\Debug\net8.0\Рекуссия.deps.json
+C:\Users\Win 11\TEST\Рекуссия\bin\Debug\net8.0\Рекуссия.runtimeconfig.json
+C:\Users\Win 11\TEST\Рекуссия\bin\Debug\net8.0\Рекуссия.dll
+C:\Users\Win 11\TEST\Рекуссия\bin\Debug\net8.0\Рекуссия.pdb
+C:\Users\Win 11\TEST\Рекуссия\obj\Debug\net8.0\Рекуссия.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Win 11\TEST\Рекуссия\obj\Debug\net8.0\Рекуссия.AssemblyInfoInputs.cache
+C:\Users\Win 11\TEST\Рекуссия\obj\Debug\net8.0\Рекуссия.AssemblyInfo.cs
+C:\Users\Win 11\TEST\Рекуссия\obj\Debug\net8.0\Рекуссия.csproj.CoreCompileInputs.cache
+C:\Users\Win 11\TEST\Рекуссия\obj\Debug\net8.0\Рекуссия.sourcelink.json
+C:\Users\Win 11\TEST\Рекуссия\obj\Debug\net8.0\Рекуссия.dll
+C:\Users\Win 11\TEST\Рекуссия\obj\Debug\net8.0\refint\Рекуссия.dll
+C:\Users\Win 11\TEST\Рекуссия\obj\Debug\net8.0\Рекуссия.pdb
+C:\Users\Win 11\TEST\Рекуссия\obj\Debug\net8.0\Рекуссия.genruntimeconfig.cache
+C:\Users\Win 11\TEST\Рекуссия\obj\Debug\net8.0\ref\Рекуссия.dll
